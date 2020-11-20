@@ -1,0 +1,67 @@
+h1{
+    font-size: 50px;
+    color: yellow;
+    
+}
+nav{
+    background-color:#321f28;
+    padding: 20px;
+}
+nav>ul>li {
+         display: inline-block;
+         padding: ; 25px;
+         font-size: 40px;
+         margin-left:1px;
+         border-right: 5px solid grey;
+}
+body {
+    background-image: url("/images/image\ 3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+}
+li>a:hover {
+      background-color: yellow;
+}
+#pic {
+        display:flex;
+        flex-direction: right;
+        justify-content: space-evenly;
+        border: 10px solid black;
+        border-bottom: 25px solid black;
+}
+h2 {
+    color: yellow;
+    font-size: 45px;
+}
+p {
+    color: yellow;
+    font-size: 35px;
+}
+.section3{
+    background-color:#321f28;
+    padding:35px;
+    padding: 25px;
+    
+}
+.section4 {
+      background-color:#734046;
+      padding: 30px;
+}
+.section4>ol>li {
+      font-size: 40px;
+}
+.section5{
+        background-color:#a05344;
+        padding:30px;
+}
+ul>li {
+      font-size: 40px;
+}
+.section4>a {
+      font-size: 40px;
+      background-color: black;
+}
+.section4>a:hover {
+      background-color: white;
+}
