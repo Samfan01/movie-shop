@@ -15,7 +15,7 @@ nav>ul>li {
          border-right: 5px solid grey;
 }
 body {
-    background-image: url("./images/image\ 3.jpg");
+    background-image: url("/images/image 3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #cccccc;
